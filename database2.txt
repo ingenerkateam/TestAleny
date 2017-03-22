@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ANSI"?>
+<Voprosy>
+
+<question qx="100" qy="100" question_text= "Тест" file_address= "конец теста.bmp" count_of_answers="1" pravilnyi_otvet="0" otvet_chelovekat="0">
+
+<otvety x="100" y= "200" text= "Начать тест" radius="7"></otvety>
+<otvety x="220" y= "200" text= "Начать тест2" radius="7"></otvety>
+
+</question>
+
+<question qx="100" qy="100" question_text="Вопрос1" file_address= "океан.bmp" count_of_answers="2" pravilnyi_otvet="2" otvet_chelovekat="0">
+
+	<otvety x="100" y="200" text="dsfg" radius="7"></otvety>
+	<otvety x="100" y="280" text="dsfg" radius="7"></otvety>
+
+</question>
+
+<question qx="100" qy="100" question_text="Вопрос2" file_address="океан2.bmp" count_of_answers="3" pravilnyi_otvet="2" otvet_chelovekat="0">
+
+<otvety x="100" y="200" text="dsfdhgg" radius="7"></otvety>
+
+<otvety x="100" y="280" text="45678" radius="7"></otvety>
+
+<otvety x="100" y="360" text="78625" radius="7"></otvety>
+</question>
+
+<question qx="100" qy="100" question_text="Вопрос3" file_address="океан.bmp" count_of_answers="3" pravilnyi_otvet="2" otvet_chelovekat="0">
+
+<otvety x="100" y="200" text="jndtn" radius="7"></otvety>
+
+<otvety x="100" y="280" text="849779" radius="7"></otvety>
+
+<otvety x="100" y="360" text="45678" radius="7"></otvety>
+</question>
+
+<question qx="100" qy="100" question_text="Вопрос4" file_address="океан2.bmp" count_of_answers="3" pravilnyi_otvet="2" otvet_chelovekat="0">
+
+<otvety x="100" y="200" text="ftghjfg" radius="7"></otvety>
+
+<otvety x="100" y="280" text="ftghjfg" radius="7"></otvety>
+
+<otvety x="100" y="360" text="ftghjfg" radius="7"></otvety>
+</question>
+
+<question qx="100" qy="100" question_text="Вопрос5" file_address="океан.bmp" count_of_answers="4" pravilnyi_otvet="2" otvet_chelovekat="0">
+
+<otvety x="100" y="200" text="dsfg" radius="7"></otvety>
+
+<otvety x="100" y="280" text="dsfdhgg" radius="7"></otvety>
+
+<otvety x="100" y="360" text="dsfdhgg" radius="7"></otvety>
+
+<otvety x="100" y="440" text="49684" radius="7"></otvety>
+</question>
+
+<question qx="100" qy="100" question_text="Вопрос6" file_address="океан2.bmp" count_of_answers="4" pravilnyi_otvet="2" otvet_chelovekat="0">
+
+<otvety x="100" y="200" text="dsfg" radius="7"></otvety>
+
+<otvety x="100" y="280" text="dsfdhgg" radius="7"></otvety>
+
+<otvety x="100" y="360" text="45678" radius="7"></otvety>
+
+<otvety x="100" y="440" text="78625" radius="7"></otvety>
+
+</question>
+
+<question qx="100" qy="100" question_text="Вопрос7" file_address="океан2.bmp" count_of_answers="3" pravilnyi_otvet="2" otvet_chelovekat="0">
+
+<otvety x="100" y="200" text="dsfg" radius="7"></otvety>
+
+<otvety x="100" y="280" text="78625" radius="7"></otvety>
+
+<otvety x="100" y="360" text="45648" radius="7"></otvety>
+
+</question>
+
+<question qx="100" qy="100" question_text="Тест пройден!" file_address="конец теста.bmp" count_of_answers="1" pravilnyi_otvet="0" otvet_chelovekat="0">
+
+<otvety x="100" y="200" text="Результаты" radius="7"></otvety>
+
+</question>
+</Voprosy>
